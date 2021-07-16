@@ -54,6 +54,10 @@ margin-bottom: 10px;
     border-radius: 10000px;
     background-color: #6F92BB;
   }
+
+  .errorInput{
+    border-color: red;
+  }
 `;
 
 export default Box;
